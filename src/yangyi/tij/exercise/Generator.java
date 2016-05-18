@@ -1,11 +1,8 @@
 package yangyi.tij.exercise;
 
-import java.awt.print.Printable;
-import java.sql.Connection;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashSet;
-import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 import java.util.LinkedList;
 import java.util.TreeSet;
