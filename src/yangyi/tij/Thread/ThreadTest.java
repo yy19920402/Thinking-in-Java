@@ -1,4 +1,4 @@
-package yangyi.tij.Thread;
+package yangyi.tij.thread;
 
 import java.util.Date;
 
@@ -47,7 +47,7 @@ public class ThreadTest {
 //			e.printStackTrace();
 //		}
 //		for(int i=0;i<1000;i++){
-//			System.out.println("我是主线程");
+//			System.out.println("脦脪脢脟脰梅脧脽鲁脤");
 //		}
 //		a.start();
 //		try {
