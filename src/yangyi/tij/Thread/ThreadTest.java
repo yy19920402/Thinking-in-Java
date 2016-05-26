@@ -1,4 +1,4 @@
-package yangyi.tij.thread;
+package yangyi.tij.Thread;
 
 import java.util.Date;
 
